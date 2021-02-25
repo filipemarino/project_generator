@@ -1,0 +1,3 @@
+D:\Projetos\NET\repos\ticket_open\GenerateHexagonSolution.Console\obj\Debug\netcoreapp3.1\GenerateHexagonSolution.Console.csprojAssemblyReference.cache
+D:\Projetos\NET\repos\ticket_open\GenerateHexagonSolution.Console\obj\Debug\netcoreapp3.1\GenerateHexagonSolution.Console.AssemblyInfoInputs.cache
+D:\Projetos\NET\repos\ticket_open\GenerateHexagonSolution.Console\obj\Debug\netcoreapp3.1\GenerateHexagonSolution.Console.AssemblyInfo.cs

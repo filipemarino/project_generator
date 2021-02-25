@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projetos\\NET\\git_repos\\project_generator\\GenerateHexagonSolution.App\\GenerateHexagonSolution.App.csproj": {}
+  },
+  "projects": {
+    "D:\\Projetos\\NET\\git_repos\\project_generator\\GenerateHexagonSolution.App\\GenerateHexagonSolution.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\NET\\git_repos\\project_generator\\GenerateHexagonSolution.App\\GenerateHexagonSolution.App.csproj",
+        "projectName": "GenerateHexagonSolution.App",
+        "projectPath": "D:\\Projetos\\NET\\git_repos\\project_generator\\GenerateHexagonSolution.App\\GenerateHexagonSolution.App.csproj",
+        "packagesPath": "C:\\Users\\xboxf\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\NET\\git_repos\\project_generator\\GenerateHexagonSolution.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xboxf\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "McMaster.Extensions.CommandLineUtils": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
